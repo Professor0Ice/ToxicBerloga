@@ -4785,3 +4785,94 @@ Script Stack (0 frames) :
 [2023.11.14-23.37.21:785][576]LogDerivedDataCache: C:/Users/matt_/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:02:02.983 and deleted 0 files with total size 0 MiB. Scanned 106339 files in 17205 folders with total size 23075 MiB.
 [2023.11.15-00.37.20:849][369]LogDerivedDataCache: C:/Users/matt_/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:02:02.047 and deleted 0 files with total size 0 MiB. Scanned 106339 files in 17205 folders with total size 23075 MiB.
 [2023.11.15-01.37.21:807][168]LogDerivedDataCache: C:/Users/matt_/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:02:03.004 and deleted 0 files with total size 0 MiB. Scanned 106339 files in 17205 folders with total size 23075 MiB.
+[2023.11.15-02.21.40:978][225]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2023.11.15-02.21.43:869][225]LogSlate: Window 'Save Content' being destroyed
+[2023.11.15-02.21.43:966][225]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.15-02.21.44:115][225]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2D-UI/icon_FireCar2" FILE="../../../../GithUB/ToxicBerloga/ToxicMeasurement/Content/2D-UI/icon_FireCar2.uasset" SILENT=true
+[2023.11.15-02.21.44:287][225]LogSavePackage: Moving output files for package: /Game/2D-UI/icon_FireCar2
+[2023.11.15-02.21.44:287][225]LogSavePackage: Moving '../../../../GithUB/ToxicBerloga/ToxicMeasurement/Saved/icon_FireCar29E240B2048BE4AAC308661AD5F87295D.tmp' to '../../../../GithUB/ToxicBerloga/ToxicMeasurement/Content/2D-UI/icon_FireCar2.uasset'
+[2023.11.15-02.21.44:298][225]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2D-UI/icon_linenotes" FILE="../../../../GithUB/ToxicBerloga/ToxicMeasurement/Content/2D-UI/icon_linenotes.uasset" SILENT=true
+[2023.11.15-02.21.44:300][225]LogSavePackage: Moving output files for package: /Game/2D-UI/icon_linenotes
+[2023.11.15-02.21.44:300][225]LogSavePackage: Moving '../../../../GithUB/ToxicBerloga/ToxicMeasurement/Saved/icon_linenotesDBF5DC064BE3A4DEC55BD89F167A2E90.tmp' to '../../../../GithUB/ToxicBerloga/ToxicMeasurement/Content/2D-UI/icon_linenotes.uasset'
+[2023.11.15-02.21.44:301][225]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2D-UI/icon_researcher" FILE="../../../../GithUB/ToxicBerloga/ToxicMeasurement/Content/2D-UI/icon_researcher.uasset" SILENT=true
+[2023.11.15-02.21.44:303][225]LogSavePackage: Moving output files for package: /Game/2D-UI/icon_researcher
+[2023.11.15-02.21.44:303][225]LogSavePackage: Moving '../../../../GithUB/ToxicBerloga/ToxicMeasurement/Saved/icon_researcherF1AEDC4745678417969DAA9A5E38F586.tmp' to '../../../../GithUB/ToxicBerloga/ToxicMeasurement/Content/2D-UI/icon_researcher.uasset'
+[2023.11.15-02.21.44:303][225]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Widget/Menu/TT_Window" FILE="../../../../GithUB/ToxicBerloga/ToxicMeasurement/Content/Blueprints/Widget/Menu/TT_Window.uasset" SILENT=true
+[2023.11.15-02.21.44:357][225]LogSavePackage: Moving output files for package: /Game/Blueprints/Widget/Menu/TT_Window
+[2023.11.15-02.21.44:357][225]LogSavePackage: Moving '../../../../GithUB/ToxicBerloga/ToxicMeasurement/Saved/TT_Window388D91C544423A38B5A0DAB2D01EFFD0.tmp' to '../../../../GithUB/ToxicBerloga/ToxicMeasurement/Content/Blueprints/Widget/Menu/TT_Window.uasset'
+[2023.11.15-02.21.44:359][225]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Widget/Menu/W_Menu" FILE="../../../../GithUB/ToxicBerloga/ToxicMeasurement/Content/Blueprints/Widget/Menu/W_Menu.uasset" SILENT=true
+[2023.11.15-02.21.44:514][225]LogSavePackage: Moving output files for package: /Game/Blueprints/Widget/Menu/W_Menu
+[2023.11.15-02.21.44:515][225]LogSavePackage: Moving '../../../../GithUB/ToxicBerloga/ToxicMeasurement/Saved/W_Menu8AAE42644E4C691DB4AFBCBCB65B0DBF.tmp' to '../../../../GithUB/ToxicBerloga/ToxicMeasurement/Content/Blueprints/Widget/Menu/W_Menu.uasset'
+[2023.11.15-02.21.44:526][225]LogFileHelpers: InternalPromptForCheckoutAndSave took 561 ms (total: 1.00 sec)
+[2023.11.15-02.21.44:540][225]LogStall: Shutdown...
+[2023.11.15-02.21.44:590][225]LogStall: Shutdown complete.
+[2023.11.15-02.21.45:203][225]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2023.11.15-02.21.45:203][225]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.15-02.21.45:225][225]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2023.11.15-02.21.45:225][225]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.15-02.21.45:667][225]LogSlate: Window 'W_Menu' being destroyed
+[2023.11.15-02.21.45:719][225]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2023.11.15-02.21.45:720][225]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.15-02.21.45:735][225]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2023.11.15-02.21.45:736][225]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.15-02.21.47:377][225]LogSlate: Window 'ToxicMeasurement - Unreal Editor' being destroyed
+[2023.11.15-02.21.51:506][225]AssetCheck: New page: Asset Save: multiple assets
+[2023.11.15-02.21.51:506][225]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/Widget/Menu/W_Menu.W_Menu
+[2023.11.15-02.21.51:524][225]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/Widget/Menu/TT_Window.TT_Window
+[2023.11.15-02.21.51:525][225]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/2D-UI/icon_researcher.icon_researcher
+[2023.11.15-02.21.51:525][225]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/2D-UI/icon_linenotes.icon_linenotes
+[2023.11.15-02.21.51:525][225]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/2D-UI/icon_FireCar2.icon_FireCar2
+[2023.11.15-02.21.51:922][226]Cmd: QUIT_EDITOR
+[2023.11.15-02.21.51:928][226]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2023.11.15-02.21.52:296][226]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2023.11.15-02.21.52:334][226]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2023.11.15-02.21.52:355][226]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2023.11.15-02.21.52:555][226]LogWorld: UWorld::CleanupWorld for S_Menu, bSessionEnded=true, bCleanupResources=true
+[2023.11.15-02.21.52:595][226]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.15-02.21.53:062][226]LogStylusInput: Shutting down StylusInput subsystem.
+[2023.11.15-02.21.53:301][226]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2023.11.15-02.21.54:245][226]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2023.11.15-02.21.54:245][226]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2023.11.15-02.21.54:245][226]LogAudio: Display: Audio Device unregistered from world 'S_Menu'.
+[2023.11.15-02.21.54:308][226]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2023.11.15-02.21.54:311][226]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2023.11.15-02.21.54:334][226]LogAudio: Display: Audio Device Manager Shutdown
+[2023.11.15-02.21.54:430][226]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2023.11.15-02.21.54:501][226]LogExit: Preparing to exit.
+[2023.11.15-02.21.55:709][226]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2023.11.15-02.21.55:746][226]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.11.15-02.21.55:748][226]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.11.15-02.21.55:764][226]LogPython: Display: Object '/Engine/PythonTypes.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.11.15-02.21.55:766][226]LogPython: Display: Object '/Engine/PythonTypes.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.11.15-02.21.55:766][226]LogPython: Display: Object '/Engine/PythonTypes.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.11.15-02.21.55:767][226]LogPython: Display: Object '/Engine/PythonTypes.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.11.15-02.21.55:767][226]LogPython: Display: Object '/Engine/PythonTypes.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.11.15-02.21.55:768][226]LogPython: Display: Object '/Engine/PythonTypes.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.11.15-02.21.55:768][226]LogPython: Display: Object '/Engine/PythonTypes.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.11.15-02.21.55:768][226]LogPython: Display: Object '/Engine/PythonTypes.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.11.15-02.21.55:768][226]LogPython: Display: Object '/Engine/PythonTypes.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.11.15-02.21.55:768][226]LogPython: Display: Object '/Engine/PythonTypes.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.11.15-02.21.55:769][226]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.11.15-02.21.55:769][226]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.11.15-02.21.55:769][226]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.11.15-02.21.55:769][226]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.11.15-02.21.55:770][226]LogPython: Display: Object '/Engine/PythonTypes.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.11.15-02.21.55:770][226]LogPython: Display: Object '/Engine/PythonTypes.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.11.15-02.21.55:771][226]LogPython: Display: Object '/Engine/PythonTypes.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.11.15-02.21.57:023][226]LogDirectoryWatcher: Display: Refresh of ReadDirectoryChangesW failed. GetLastError code [6] Handle [FFFFFFFFFFFFFFFF], Path [D:/GithUB/ToxicBerloga/ToxicMeasurement/Content/]. Aborting watch request...
+[2023.11.15-02.21.58:986][226]LogExit: Editor shut down
+[2023.11.15-02.21.59:022][226]LogExit: Transaction tracking system shut down
+[2023.11.15-02.21.59:568][226]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2023.11.15-02.22.07:947][226]LogExit: Object subsystem successfully closed.
+[2023.11.15-02.22.07:977][226]LogShaderCompilers: Display: ================================================
+[2023.11.15-02.22.08:043][226]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.11.15-02.22.08:044][226]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2023.11.15-02.22.08:044][226]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2023.11.15-02.22.08:081][226]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2023.11.15-02.22.08:081][226]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.11.15-02.22.08:081][226]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.11.15-02.22.08:081][226]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.11.15-02.22.08:081][226]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.11.15-02.22.08:081][226]LogShaderCompilers: Display: ================================================
+[2023.11.15-02.22.08:137][226]LogShaderCompilers: Display: Shaders left to compile 0
+[2023.11.15-02.22.08:444][226]LogVirtualization: UE::Virtualization was shutdown
